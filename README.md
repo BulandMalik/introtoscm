@@ -1,2 +1,0 @@
-# introtoscm
-SCM Introduction
